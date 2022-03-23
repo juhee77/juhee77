@@ -1,13 +1,15 @@
 
 <div align = "center">
   <h2> Hello, I'm JuheePark😄</h2>
-  <br/>
+  ---
   <h3>🍀 My Stack 🍀</h3>
+  ---
+  <br/>
   <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-bedge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-bedge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-bedge&logo=C&logoColor=white"/>
 
-  
+  <br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical) 
   <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhee77&layout=compact&hide=csharp)
