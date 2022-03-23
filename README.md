@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0deWave&layout=compact&hide=csharp)
+
 <!--
 **juhee77/juhee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
