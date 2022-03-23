@@ -1,9 +1,9 @@
 
 <div align = "center">
   <h2> Hello, I'm JuheePark😄</h2>
-  ---
+  <hr/>
   <h3>🍀 My Stack 🍀</h3>
-  ---
+  <hr/>
   <br/>
   <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-bedge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-bedge&logo=Python&logoColor=white"/>
