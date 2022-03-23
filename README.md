@@ -6,17 +6,17 @@
   <br/>
   <h3>🍀 My Stack 🍀</h3>
   <br/>
-
   <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-bedge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-bedge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-bedge&logo=C&logoColor=white"/>
- 
-</div>
 
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhee77&layout=compact&hide=csharp)
+</div>
+
 
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
