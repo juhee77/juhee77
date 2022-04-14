@@ -1,9 +1,9 @@
 
 <div align = "center">
   <h2>🍀 My Stack 🍀</h2>
-  <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-bedge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-bedge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-bedge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
 
   
