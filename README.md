@@ -1,9 +1,17 @@
 
 <div align = "center">
-  <h2>🍀  My Stack  🍀</h2>
+     <h3>🧐  Introduce  🧐</h3>
+  <br>
+  <br>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
+</divr>
+
+
+<div align = "center">
+  <h3>🍀  My Stack  🍀</h3>
+   
   
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>
@@ -20,13 +28,26 @@
   
  </div>
  
+<br>
+<br>
 
- <div align = "center" >
+<div align = "center" >  
 
-
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhee77&layout=compact)](https://github.com/juhee77/github-readme-stats)|
+<h3> 💻 Project 💻 </h3>
+  <a href="https://github.com/juhee77/Capstone" target="_blank">🔗← </a>AI기반 음식 분석 애플리케이션, 플랜밀
+  <br>
+<a href="https://github.com/juhee77/Capstone" target="_blank">🔗← </a>용기내 챌리지, Brave
+  <br>
+<a href="https://github.com/juhee77/Capstone" target="_blank">🔗← </a>레스토랑 예약 시스템
+  <br>
+    <br>
+  
+  <h3> ✏️ Record ✏️</h3>
+  
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhee77&langs_count=8)](https://github.com/juhee77/github-readme-stats)|
 |------|---|
  
+  
 </div>
 
 
