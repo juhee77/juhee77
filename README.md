@@ -34,11 +34,11 @@
 <div align = "center" >  
 
 <h3> 💻 Project 💻 </h3>
-  <a href="https://github.com/juhee77/Capstone" target="_blank">🔗← </a>AI기반 음식 분석 애플리케이션, 플랜밀
+  <a href="https://github.com/juhee77/honest-backend" target="_blank">🔗← </a>AI기반 음식 분석 애플리케이션, 플랜밀
   <br>
-<a href="https://github.com/juhee77/Capstone" target="_blank">🔗← </a>용기내 챌리지, Brave
+<a href="https://github.com/juhee77/android-four-people" target="_blank">🔗← </a>용기내 챌리지, Brave
   <br>
-<a href="https://github.com/juhee77/Capstone" target="_blank">🔗← </a>레스토랑 예약 시스템
+<a href="https://github.com/juhee77/Booksys" target="_blank">🔗← </a>레스토랑 예약 시스템
   <br>
     <br>
   
