@@ -1,17 +1,35 @@
 
 <div align = "center">
   <h2>🍀  My Stack  🍀</h2>
-  <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   
-  <br/><hr/>     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical) 
-  <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhee77&layout=compact)](https://github.com/juhee77/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat&logo=SPRINGBOOT&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=flat&logo=MariaDB&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/NaverCloud-03C75A.svg?style=flat&logo=&logoColor=white"/>
+  <br>
+  
+ </div>
+ 
+
+ <div align = "center" >
+
+
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhee77&layout=compact)](https://github.com/juhee77/github-readme-stats)|
+|------|---|
+ 
 </div>
+
+
 
 
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
@@ -19,7 +37,7 @@
 -->
 <!--
 **juhee77/juhee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
