@@ -43,7 +43,10 @@
   
 ### ✏️ Record ✏️
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youn6)](https://solved.ac/youn6/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youn6)](https://solved.ac/youn6/) 
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical)
   
 </div>
