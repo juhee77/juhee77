@@ -1,13 +1,17 @@
 <div align = "center">
 
-### 🧐  Introduce  🧐
-     
-[<img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://lahezy.tistory.com)
+<!-- ### 🧐  Introduce  🧐 -->
+
 [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:jouhi3322@gmail.com)
 
+<!--
+[<img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://lahezy.tistory.com)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
+
  <br>
+ 
+-->
 
 ### 🍀  My Stack  🍀  
 
@@ -24,11 +28,15 @@
 <br>
 <img src="https://img.shields.io/badge/NaverCloud-03C75A.svg?style=for-the-badge&logo=NaverCloud&logoColor=white"/>
 <br>
+
+<!--
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <br>
+-->
+
 <br>  
      
 
@@ -43,9 +51,7 @@
   
 ### ✏️ Record ✏️
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youn6)](https://solved.ac/youn6/) 
-
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=youn6&theme=warm)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical)
   
@@ -53,6 +59,9 @@
 
 
 <!--
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youn6)](https://solved.ac/youn6/) 
+
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhee77&langs_count=8)](https://github.com/juhee77/github-readme-stats)|
 |------|---|
 -->
