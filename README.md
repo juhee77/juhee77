@@ -38,7 +38,7 @@
 
 <br>  
      
-
+<!--
 ###  💻 Project 💻 
 <a href="https://github.com/juhee77/honest-backend" target="_blank">🔗← </a>AI기반 음식 분석 애플리케이션, 플랜밀
 <br>
@@ -46,7 +46,8 @@
 <br>
 <a href="https://github.com/juhee77/Booksys" target="_blank">🔗← </a>레스토랑 예약 시스템
 <br>
-<br>
+<br> 
+-->
   
 ### ✏️ Record ✏️
 
