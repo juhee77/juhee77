@@ -1,15 +1,18 @@
 <div align = "center">
 
 <!-- ### 🧐  Introduce  🧐 -->
-
-[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:jouhi3322@gmail.com)
-
  
-[<img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://lahezy.tistory.com)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:jouhi3322@gmail.com) [<img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://lahezy.tistory.com)
  <br>
+ 
+<!--  🔭 I’m currently working on ...  
+ 🌱 I’m currently learning ...  
+ 👯 I’m looking to collaborate on ...  
+ 🤔 I’m looking for help with ...  
+ 💬 Ask me about ...  
+ 📫 How to reach me: ...  
+ 😄 Pronouns: ...  
+ ⚡ Fun fact: ...   -->
  
 <!--
 ### 🍀  My Stack  🍀  
@@ -38,8 +41,10 @@
 
 <br>  
      
-<!--
+
 ###  💻 Project 💻 
+<a href="https://github.com/juhee77/share-anything" target="_blank"> 🔗← </a> 개인 게시판 프로젝트
+<br>
 <a href="https://github.com/juhee77/honest-backend" target="_blank">🔗← </a>AI기반 음식 분석 애플리케이션, 플랜밀
 <br>
 <a href="https://github.com/juhee77/android-four-people" target="_blank">🔗← </a>용기내 챌리지, Brave
@@ -47,14 +52,18 @@
 <a href="https://github.com/juhee77/Booksys" target="_blank">🔗← </a>레스토랑 예약 시스템
 <br>
 <br> 
--->
+
   
 ### ✏️ Record ✏️
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youn6)](https://solved.ac/youn6/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical)
-  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+ 
+ 
 </div>
 
 
