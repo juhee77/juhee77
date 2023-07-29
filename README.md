@@ -2,7 +2,7 @@
 
 <!-- ### 🧐  Introduce  🧐 -->
  
-[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:jouhi3322@gmail.com) [<img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://lahezy.tistory.com)
+[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:jouhi3322@gmail.com) [<img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://lahezy.tistory.com) [<img src="https://img.shields.io/badge/algorighm-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://cons-ps.tistory.com/)
  <br>
  
 <!--  🔭 I’m currently working on ...  
@@ -43,17 +43,23 @@
      
 
 ###  💻 Project 💻 
+<a href="https://github.com/juhee77/java-todo" target="_blank"> 🔗← </a> 개인 TODO 페이지[개발 진행중]
+<a href="http://ec2-43-201-217-199.ap-northeast-2.compute.amazonaws.com:8080/home" target="_blank"> 서비스 링크 </a>
+<br>
+<a href="https://github.com/juhee77/Cold_Pitch" target="_blank"> 🔗← </a> 콜드 피치 - 스타트업 수요 조사 Rest 서버
+<br>
 <a href="https://github.com/juhee77/share-anything" target="_blank"> 🔗← </a> 개인 게시판 프로젝트
+<br>
+<a href="https://github.com/juhee77/mbti-clone" target="_blank"> 🔗← </a> 간단한 MBTI 페이지
+<a href="https://likelion-mbti-clone.netlify.app/" target="_blank"> 서비스 링크(모바일 권장) </a>
 <br>
 <a href="https://github.com/juhee77/honest-backend" target="_blank">🔗← </a>AI기반 음식 분석 애플리케이션, 플랜밀
 <br>
 <a href="https://github.com/juhee77/android-four-people" target="_blank">🔗← </a>용기내 챌리지, Brave
 <br>
 <a href="https://github.com/juhee77/Booksys" target="_blank">🔗← </a>레스토랑 예약 시스템
-<br>
-<br> 
+<br><br>
 
-  
 ### ✏️ Record ✏️
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youn6)](https://solved.ac/youn6/) 
