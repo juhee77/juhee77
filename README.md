@@ -1,6 +1,7 @@
 <div align = "center">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome%20juhee77🐥🐣🐤&fontSize=60" />
 
-<!-- ### 🧐  Introduce  🧐 -->
+ ### 🧐  Introduce  🧐 
  
 [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:jouhi3322@gmail.com) [<img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://lahezy.tistory.com) [<img src="https://img.shields.io/badge/algorighm-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://cons-ps.tistory.com/)
  <br>
@@ -14,7 +15,6 @@
  😄 Pronouns: ...  
  ⚡ Fun fact: ...   -->
  
-<!--
 ### 🍀  My Stack  🍀  
 
 <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -37,7 +37,6 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <br>
--->
 
 <br>  
      
@@ -66,7 +65,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👻hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  
  
