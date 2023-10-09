@@ -5,7 +5,6 @@
  
 [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:jouhi3322@gmail.com)
 [<img src="https://img.shields.io/badge/blog-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://lahezy.tistory.com) 
-[<img src="https://img.shields.io/badge/algorighm-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>](https://cons-ps.tistory.com/)
 [<img src="https://img.shields.io/badge/portfolio-FFFFFF.svg?style=for-the-badge&logo=GoogleDrive&logoColor=GoogleDrive"/>](https://docs.google.com/document/d/1eTAi08tLC4TZ_OiW7VA1qBAufDtfZDgDrKygrYIsmQg/edit?usp=sharing)
  <br>
  
@@ -22,7 +21,6 @@
 #### most used
 <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=Springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/springsecurity-FFFFFF?style=for-the-badge&logo=Springsecurity&logoColor=6DB33F"><br>  
 
 #### have used  
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
