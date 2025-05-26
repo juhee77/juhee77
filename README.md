@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=Springboot&logoColor=white"/>
 
+<!---
 #### have used  
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
@@ -52,7 +53,8 @@
 <br>
 
 <br>  
-     
+-->
+
 <!--
 ###  💻 Project 💻 
 <a href="https://github.com/juhee77/Final_Project_1team" target="_blank"> 🔗← </a> 구해줘 집사 [고도화 진행중]  
@@ -79,6 +81,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youn6)](https://solved.ac/youn6/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhee77&show_icons=true&theme=radical)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👻hits&edge_for-the-badge=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhee77&count_bg=%2351AA9F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👻hits&edge_for-the-badge=false)](https://hits.seeyoufarm.com) -->
 
  
